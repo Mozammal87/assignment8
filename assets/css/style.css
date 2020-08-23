@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 400;
+    color: #2E4065;
+}
+.container {
+    margin-bottom: 100px;
+}
+.main-menu {
+    background-color: #F8F9FA;
+    padding: 10px;
+}
+.carousel-item {
+    background-color: #FCEAE8;
+    border-radius: 10px;
+    padding: 60px;
+}
+.price {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 16px;
+}
+.bg-1, .bg-2, .bg-3 {
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: #fff;
+}
+.categoris img {
+    width: 100px;
+}
+.bg-1 {
+    background-color: #FFA500;
+}
+.bg-2 {
+    background-color: #DA70D6;
+}
+.bg-3 {
+    background-color: #0000FF;
+}
+.card {
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    border: none;
+}
+.card-footer {
+    background-color: #fff;
+    border: none;
+}
+#subscriber {
+    height: 300px;
+}
+.orange-bg {
+    background-color: #FCEAE8;
+    border-radius: 10px;
+}
+.buy-now-button.price {
+    box-shadow: 0px;
+    border: none;
+    padding: 8px 15px;
+    font-size: 15px;
+}
+.form .form-control {
+    width: 66%;
+    margin-right: 9px;
+    display: inline-block;
+}
